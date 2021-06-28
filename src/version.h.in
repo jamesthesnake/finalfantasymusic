@@ -1,0 +1,7 @@
+#ifndef VERSION_H
+#define VERSION_H
+
+#define RIDEAU_VERSION_MAJOR @rideau_VERSION_MAJOR@
+#define RIDEAU_VERSION_MINOR @rideau_VERSION_MINOR@
+
+#endif
